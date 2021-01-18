@@ -8,7 +8,7 @@
 - [Introdução](#Introdução)
 - [Links de Referência](#Links-de-Referência)
 - [Antes de Começar](#Antes-de-Começar)
-- [Git](#Git)
+- [Anotações](#Anotações)
 
 
 # Introdução 
