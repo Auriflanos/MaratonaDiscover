@@ -85,10 +85,11 @@ Sempre que iniciar um novo projeto, escreva os comandos abaixo para resetar todo
 
 # **Developers**
 
-> Estas pessoas contribuiram para o Readme.md ser o mais completo possível!
+> These amazing people supported on the development of this project!
 
 | <a href="https://github.com/Auriflanos" target="_blank">**Lucas Gonçalves**</a> | 
-| :---: |:---:| 
+| :---: |
+| <a href="https://github.com/Auriflanos" target="_blank">***Owner***</a> |
 |<img alt="Developer" title="Developer" src="https://avatars0.githubusercontent.com/u/66454089?s=460&u=7d44989a97508ae37a8d5d81fb1bf19e005f15e9&v=4" width="130px" />| 
-| <a href="https://www.linkedin.com/in/lucasrgoncalves/" target="_blank">`LinkedIn`</a> |
-| <a href="https://github.com/Auriflanos" target="_blank">`GitHub`</a> | 
+| <a href="https://www.linkedin.com/in/lucasrgoncalves/" target="_blank">`LinkedIn`</a> | 
+| <a href="https://github.com/Auriflanos" target="_blank">`GitHub`</a> 
