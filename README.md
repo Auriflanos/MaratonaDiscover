@@ -83,6 +83,9 @@ Sempre que iniciar um novo projeto, escreva os comandos abaixo para resetar todo
 }
 ```
 
+# **Results**
+<h2 align="center"><img alt="Project" title="Project" src="https://media-exp1.licdn.com/dms/image/C4D12AQH4VEcB6BLPog/article-inline_image-shrink_1000_1488/0/1610964650457?e=1616630400&v=beta&t=Zf4S9oCwSVcYOIZXSNb3Bo1Mo83srsTbt9kQgk4RwLg" width="400px" /></h2>
+
 # **Developers**
 
 > These amazing people supported on the development of this project!
