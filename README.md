@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GIT" title="GIT" src="https://media-exp1.licdn.com/dms/image/C4D1BAQHbiUE4OxMDLg/company-background_10000/0/1610651398980?e=1611050400&v=beta&t=C3vPWjpIcVVTgvNge7d8WwGYAfwa51LwxKI5nilhjwA" width="1000px"/>
+    <img alt="" title="" src="https://github.com/Auriflanos/MaratonaDiscover_Aula1/blob/main/1610651398980.jfif" width="1000px"/>
     Maratona Discover <br>
     Aula #1
 </h1>
