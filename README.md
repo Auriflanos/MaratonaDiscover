@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img alt="RocketSeat" title="RocketSeat" src="./neverstoplearning.jpg" width="1000px"/><br>
+   <img alt="RocketSeat" title="RocketSeat" src="https://raw.githubusercontent.com/Auriflanos/MaratonaDiscover_Aula1/main/Neverstoplearning.jpg" width="1000px"/><br>
     Maratona Discover <br>
     Aula #1
 </h1>
